@@ -8,15 +8,15 @@ Note: The second question was not answered for this assignment.<br>
 
 <h2> Installation </h2>
 <ul>
-<li><ul Install Node.js<br> </li>
- <li> You need this to use the npm</li> <br>
-  * Link: https://nodejs.org/en/download/ <br>
-* Install Truffle v.4.1.15 <br>
-  * npm install -g Truffle@4.1.15 <br>
-* Install OpenZeppelin v 1.10.0 (Optional, the files are already included) <br>
-  * npm install openzeppelin-solidity@1.10.0 <br>
-* Clone or download the repository <br>
-* Profit! <br>
+<li> Install Node.js<br> </li>
+  You need this to use the npm <br>
+   Link: https://nodejs.org/en/download/ <br>
+ <li> Install Truffle v.4.1.15</li> <br>
+   npm install -g Truffle@4.1.15 <br>
+<li> Install OpenZeppelin v 1.10.0 <li> (Optional, the files are already included) <br>
+   npm install openzeppelin-solidity@1.10.0 <br>
+ <li> Clone or download the repository </li> <br>
+<li> Profit! </li> <br>
  </ul>
 
 <h2> Usage </h2>
