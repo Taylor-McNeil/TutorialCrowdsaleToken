@@ -7,8 +7,9 @@ The program requires Truffle v. 4.1.15 && Solidity 0.4.25. <br>
 Note: The second question was not answered for this assignment.<br>
 
 <h2> Installation </h2>
-* Install Node.js<br>
-  * You need this to use the npm <br>
+<ul>
+<li><ul Install Node.js<br> </li>
+ <li> You need this to use the npm</li> <br>
   * Link: https://nodejs.org/en/download/ <br>
 * Install Truffle v.4.1.15 <br>
   * npm install -g Truffle@4.1.15 <br>
@@ -16,6 +17,7 @@ Note: The second question was not answered for this assignment.<br>
   * npm install openzeppelin-solidity@1.10.0 <br>
 * Clone or download the repository <br>
 * Profit! <br>
+ </ul>
 
 <h2> Usage </h2>
 *
