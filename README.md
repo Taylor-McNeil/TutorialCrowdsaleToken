@@ -20,6 +20,8 @@ Note: The second question was not answered for this assignment.<br>
  </ul>
 
 <h2> Usage </h2>
-*
+<li> Open the terminal or cmd </li>
+<li> Naviagate to where you cloned or downloaded the repository </li>
+<li> ```linux truffle compile ```
   
   
