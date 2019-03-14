@@ -22,6 +22,9 @@ Note: The second question was not answered for this assignment.<br>
 <h2> Usage </h2>
 <li> Open the terminal or cmd </li>
 <li> Naviagate to where you cloned or downloaded the repository </li>
-<li> ```linux truffle compile ```
-  
+<li> Type truffle compile </li>
+  --A list of warnings should come up, everything is fine </li>
+<li>Type truffe develop </li>  
+<li> Deploy your token with the rate, a wallet and a cap </li>
+  --Start trading!
   
