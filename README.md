@@ -35,10 +35,10 @@ Note: The second question was not answered for this assignment.<br>
   <img src = "Pictures/Change the minimum contribution.PNG" > </p>
 <li>Try to buy tokens with 2.5 Ether </li>
 <p align = "left">
-  <img src = "Truffle 2.5.PNG" > </p>
+  <img src = "Pictures/Truffle 2.5.PNG" > </p>
 <li>Buy Tokens with 15 Ether </li>
 <p align = "left">
-  <img src = "Truffle15.PNG.PNG" > </p>
+  <img src = "Pictures/Truffle15.PNG.PNG" > </p>
 <li> Return how many tokens are left </li>
 <p align = "left">
-  <img src = "Truffle leftover.PNG" > </p>
+  <img src = "Pictures/Truffle leftover.PNG" > </p>
