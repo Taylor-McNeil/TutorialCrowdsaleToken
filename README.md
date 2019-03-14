@@ -1,10 +1,10 @@
 <h1> TutorialCrowdsaleToken </h1>
 Author: Taylor McNeil
 
-This program was created in conjuction with a medium article: https://medium.com/crowdbotics/how-to-build-a-simple-capped-crowdsale-token-using-openzeppelin-library-part-1-2789ec642308. <br>
-The purpose was a to create a crowd sale token that had a minimum investment of 5 Ether and a maxiumum investment of 50 Ether. <br>
+This program was created in conjunction with a medium article: https://medium.com/crowdbotics/how-to-build-a-simple-capped-crowdsale-token-using-openzeppelin-library-part-1-2789ec642308. <br>
+The purpose was to create a crowd sale token that had a minimum investment of 5 Ether and a maximum investment of 50 Ether. <br>
 The program requires Truffle v. 4.1.15 && Solidity 0.4.25. <br>
-Note: The second question was not answered for this assignment.<br>
+Note: The second question was not answered for this assignment. <br>
 
 <h2> Installation </h2>
 <ul>
@@ -21,10 +21,10 @@ Note: The second question was not answered for this assignment.<br>
 
 <h2> Usage </h2>
 <li> Open the terminal or cmd </li>
-<li> Naviagate to where you cloned or downloaded the repository </li>
+<li> Navigate to where you cloned or downloaded the repository </li>
 <li> Type truffle compile </li>
    --A list of warnings should come up, everything is fine </li>
-<li>Type truffe develop </li>  
+<li>Type truffle develop </li>  
 <li> Deploy your token with the rate, a wallet and a cap </li>
    --Start trading!
    
