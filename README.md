@@ -46,7 +46,7 @@ Note: The second question was not answered for this assignment.<br>
   <img src = "Pictures/Truffle leftover.PNG" > </p>
 <li> Buy tokens(again) with 25 Ether </p>
 <p align = "left">
-  <img src = "Pictures/Truffle 25 .PNG.PNG" > </p>
+  <img src = "Pictures/Truffle 25. PNG.PNG"</p>
  <li> Tutorial Tests </li> 
   <p align = "left">
   <img src = "Pictures/TestOne.PNG">
