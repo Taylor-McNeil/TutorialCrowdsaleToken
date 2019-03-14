@@ -33,12 +33,12 @@ Note: The second question was not answered for this assignment.<br>
 <li>Change the minimum contribution to 5 Ether </li>
 <p align = "left">
   <img src = "Pictures/Change the minimum contribution.PNG" > </p>
-<li>Try to buy tokens with 2.5 Ether </li>
+<li>Try to buy tokens with 2.5 Ether (Failure) </li>
 <p align = "left">
   <img src = "Pictures/Truffle 2.5.PNG" > </p>
-<li>Buy Tokens with 15 Ether </li>
+<li>Buy Tokens with 15 Ether (Sucess) </li>
 <p align = "left">
-  <img src = "Pictures/Truffle15.PNG.PNG" > </p>
+  <img src = "Pictures/Truffle 15. PNG.PNG"> </p>
 <li> Return how many tokens are left </li>
 <p align = "left">
   <img src = "Pictures/Truffle leftover.PNG" > </p>
