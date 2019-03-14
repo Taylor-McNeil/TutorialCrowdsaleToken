@@ -31,6 +31,8 @@ Note: The second question was not answered for this assignment.<br>
 <h2> Solutions </h2>
 
 <li>Change the minimum contribution to 5 Ether </li>
-<p align = "center">
-  <img src = "Pictures/Change the minimum contribution.PNG" >
-  
+<p align = "left">
+  <img src = "Pictures/Change the minimum contribution.PNG" > </p>
+<li>Try to buy tokens with 2.5 Ether </li>
+<li>Buy Tokens with 15 Ether </li>
+<li> Return how many tokens are left </li>
