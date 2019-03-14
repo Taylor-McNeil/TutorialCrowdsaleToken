@@ -23,8 +23,14 @@ Note: The second question was not answered for this assignment.<br>
 <li> Open the terminal or cmd </li>
 <li> Naviagate to where you cloned or downloaded the repository </li>
 <li> Type truffle compile </li>
-  --A list of warnings should come up, everything is fine </li>
+   --A list of warnings should come up, everything is fine </li>
 <li>Type truffe develop </li>  
 <li> Deploy your token with the rate, a wallet and a cap </li>
-  --Start trading!
+   --Start trading!
+   
+<h2> Solutions </h2>
+
+<li>Change the minimum contribution to 5 Ether </li>
+<p align = "center">
+  <img src = "Pictures/Change the minimum contribution.PNG" >
   
