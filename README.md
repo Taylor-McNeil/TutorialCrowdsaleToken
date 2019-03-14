@@ -29,7 +29,9 @@ Note: The second question was not answered for this assignment.<br>
    --Start trading!
    
 <h2> Solutions </h2>
-
+<li> Defining parameters </li>
+<p align = "left">
+  <img src = "Pictures/CSC4980 Token.PNG" > </p>
 <li>Change the minimum contribution to 5 Ether </li>
 <p align = "left">
   <img src = "Pictures/Change the minimum contribution.PNG" > </p>
