@@ -44,3 +44,13 @@ Note: The second question was not answered for this assignment.<br>
 <li> Return how many tokens are left </li>
 <p align = "left">
   <img src = "Pictures/Truffle leftover.PNG" > </p>
+<li> Buy tokens(again) with 25 Ether </p>
+<p align = "left">
+  <img src = "Pictures/Truffle 25.PNG.PNG" > </p>
+ <li> Tutorial Tests </li> 
+  <p align = "left">
+  <img src = "Pictures/TestOne">
+  <img src = "Pictures/TestTwo"> 
+  <img src = "Pictures/TestThree">
+  <img src = "Pictures/TestFour"></p>
+
