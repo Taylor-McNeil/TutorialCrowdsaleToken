@@ -1,2 +1,3 @@
+
 *.sol linguist-language=Solidity
-root/*
+root/* linguist-vendored
